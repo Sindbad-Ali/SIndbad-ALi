@@ -18,7 +18,7 @@
   <a href="mailto:sindbadali786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a>
+    <a href="https://www.youtube.com/">
      <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sindbad-ali-ansari" >
@@ -33,6 +33,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=Angular,ASP.NET CORE MVC,MVC,DOT NET CORE,javascript,vscode,github,git,VISUAL STUDIO,SQL SERVER" />
     <img src="https://skillicons.dev/icons?i=css,bootstrap,html,mysql,angular" /><br>
+<br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,express,nodejs,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,firebase,mongodb,nextjs,mysql,php,laravel" />
 </div>
 
 <br/>
